@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="8eb5fb75-cb80-4a63-bc5d-e1fecf7dd924" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app-header/app-header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-header/app-header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item-add-form/item-add-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-add-form/item-add-form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item-add-form/item-add-from.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-add-form/item-add-from.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" afterDir="false" />
     </list>
@@ -93,7 +97,8 @@
       <workItem from="1581854608160" duration="4105000" />
       <workItem from="1581863339600" duration="13431000" />
       <workItem from="1581940538072" duration="11156000" />
-      <workItem from="1582032834706" duration="4528000" />
+      <workItem from="1582032834706" duration="12578000" />
+      <workItem from="1582132453994" duration="7401000" />
     </task>
     <servers />
   </component>
